@@ -1,0 +1,10 @@
+Ligue o primeiro interruptor e vá para a sala de lampadas validar qual está ligada, e volte para a sala do interruptor.
+Desligue o primeiro interruptor, ligue o segundo e vá para a sala de lampadas valide qual está ligada, volte para a sala do interruptor.
+A terceira lampada é acesa pelo interruptor que você não ligou.
+
+Também é possivel fazer isso com apenas uma ida a sala de lampadas.
+Ligue o primeiro interruptor e deixe ligador por alguns minutos.
+Desligue ele, ligue o segundo interruptor e vá para a sala de lampadas.
+Verifique a temperatura das duas lampadas que estão desligadas, a que estiver quente é ativada pelo primeiro interruptor.
+A que estiver acesa é ativada pelo segundo interruptor
+A que estiver desligada e fria é ativada pelo terceiro interruptor
